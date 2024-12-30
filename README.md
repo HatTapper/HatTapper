@@ -2,8 +2,4 @@ HatTapper
 - He/Him
 - Experienced in Lua(u)
 - Game Developer
-
-<!---
-HatTapper/HatTapper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Studying for a B.S. in Computer Science
